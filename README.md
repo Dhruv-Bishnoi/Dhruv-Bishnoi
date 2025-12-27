@@ -1,16 +1,47 @@
-## Hi there 👋
+## Hi 👋 I'm Dhruv Bishnoi
 
-<!--
-**Dhruv-Bishnoi/Dhruv-Bishnoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student  
+💻 Aspiring Software Developer  
+📚 Learning Data Structures & Algorithms  
+🤖 Exploring AI & Backend Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills & Technologies
+
+**Programming Languages**
+- Java
+- Python
+
+**Web Development**
+- HTML
+- CSS
+- JavaScript
+
+**Core Concepts**
+- Data Structures & Algorithms
+- Problem Solving
+- Object-Oriented Programming (OOP)
+
+**Tools**
+- Git & GitHub
+- VS Code
+
+---
+
+### 🌱 Currently Learning
+- Advanced Java
+- DSA (Arrays, Sorting, Searching, Logic Building)
+- JavaScript for Web Development
+- Basics of AI & Backend Systems
+
+---
+
+### 📌 Goals
+- Build strong problem-solving skills
+- Create real-world projects
+- Prepare for internships & placements
+
+---
+
+⭐ Feel free to explore my repositories and connect!
